@@ -27,7 +27,7 @@ namespace RockPaperSharp
         {
             int decision;
 
-            Console.WriteLine("Play again? 1. Yes, 2. No");
+            Console.WriteLine("Play again? 1: Yes; anything else: No");
 
             try
             {
